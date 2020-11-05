@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_0DUbwR7-EeuBhvgN8jwbXg" label="ProjectA" description="00201178" language="java" technicalLabel="PROJECTA" author="_0DUbwh7-EeuBhvgN8jwbXg" productVersion="Talend Cloud Data Management Platform-7.3.1.20200820_0951-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ZhangShaona/ProjectA.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
-    <migrationTask xmi:id="_0EYLsB7-EeuBhvgN8jwbXg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  <TalendProperties:Project xmi:id="_SJhFMR79Eeud1a5550mSvQ" label="ProjectA" description="00201178" language="java" technicalLabel="PROJECTA" author="_SJhFMh79Eeud1a5550mSvQ" productVersion="Talend Cloud Real-Time Big Data Platform-7.3.1.20201029_0130-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ZhangShaona/ProjectA.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_STW9sB79Eeud1a5550mSvQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_0DUbwh7-EeuBhvgN8jwbXg" login="1354650041@trial17264.eu.talend.com" firstName="Vincent" lastName="Arnoult" type="DQ"/>
+  <TalendProperties:User xmi:id="_SJhFMh79Eeud1a5550mSvQ" login="snzhang@support.talend.eu" firstName="Shaona" lastName="Zhang" type="DQ"/>
 </xmi:XMI>
